@@ -4,7 +4,7 @@ It is the startup online food ordering system in Bangladesh. We provide a platfo
 ## Live Site Link: https://restaurants-app-72413.web.app
 
 ## Restaurant Overview
-### 1. Developed a full-stack website that allows users to see category wise menu, booking service and online payment service.
+### 1. Developed a mern-stack website that allows users to see category wise menu, booking service and online payment service.
 ### 2. Option for Admin to manage booking, users and menu items.
 ### 3. Individual dashboard for user & Admin
 
